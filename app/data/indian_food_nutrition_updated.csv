@@ -1,0 +1,80 @@
+name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region,serving,Cals,Fat,Carbs,Prot,key
+Boondi,"Gram flour, ghee, sugar",vegetarian,80,30,sweet,dessert,Rajasthan,West,100g,584,41.17g,39.55g,13.75g,boondi
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,15,60,sweet,dessert,Punjab,North,100g,175,5g,30.48g,4.07g,gajar_ka_halwa
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,15,30,sweet,dessert,Rajasthan,West,100g,76,2.09g,13.24g,1.04g,ghevar
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,15,40,sweet,dessert,West Bengal,East,100g,323,15.75g,39.26g,7.15g,gulab_jamun
+Imarti,"Sugar syrup, lentil flour",vegetarian,10,50,sweet,dessert,West Bengal,East,100g,226,10.62g,31.71g,3.14g,imarti
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,10,50,sweet,dessert,Uttar Pradesh,North,100g,150,2.16g,31.18g,2.09g,jalebi
+Kalakand,"Milk, cottage cheese, sugar",vegetarian,20,30,sweet,dessert,West Bengal,East,100g,262,10.69g,35.34g,8.36g,kalakand
+Lassi,"Yogurt, milk, nuts, sugar",vegetarian,5,5,sweet,dessert,Punjab,North,100g,79,2.22g,12.83g,2.35g,lassi
+Phirni,"Rice, sugar, nuts",vegetarian,30,20,sweet,dessert,Odisha,East,100g,474,25.81g,43.91g,22.99g,phirni
+Rabri,"Condensed milk, sugar, spices, nuts",vegetarian,10,45,sweet,dessert,Uttar Pradesh,North,100g,214,6.86g,32.24g,6.7g,rabri
+Sheera,"Semolina, ghee, nuts, milk",vegetarian,10,25,sweet,dessert,Maharashtra,West,100g,189,4.67g,34.27g,3.49g,sheera
+Sohan halwa,"Corn flour, ghee, dry fruits",vegetarian,10,60,sweet,dessert,Uttar Pradesh,North,100g,756,72.8g,23.1g,2.1g,sohan_halwa
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,-1,60,sweet,dessert,Maharashtra,West,21g,110,5g,14g,2g,sohan_papdi
+Chhena kheeri,"Chhena, sugar, milk",vegetarian,-1,60,sweet,dessert,Odisha,East,100ml,100,15g,21.5g,10.5g,chhena_kheeri
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,40,60,sweet,dessert,West Bengal,East,100g,277,1.2g,57.99g,8.52g,cham_cham
+Ledikeni,"Chhena, sugar, ghee",vegetarian,45,45,sweet,dessert,West Bengal,East,100g,323,15.75g,39.26g,7.15g,ledikeni
+Lyangcha,"Flour, fried milk power, sugar syrup",vegetarian,20,30,sweet,dessert,Assam,North East,38g,58,3g,2g,7g,lyangcha
+Malapua,"Yoghurt, refined flour, ghee, fennel seeds",vegetarian,10,120,sweet,dessert,Bihar,North,100g,273,11.65g,40.59g,2.58g,malapua
+Misti doi,"Milk, jaggery",vegetarian,480,30,sweet,dessert,West Bengal,East,100g,125,2.55g,23.42g,2.67g,misti_doi
+Pithe,"Rice flour, wheat flour",vegetarian,15,35,sweet,dessert,Assam,North East,100g,115,5.7g,12.2g,0.8g,pithe
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,180,60,sweet,dessert,West Bengal,East,100g,235,3.6g,49.18g,3.18g,ras_malai
+Rasgulla,"Chhena, sugar, cardamom",vegetarian,10,90,sweet,dessert,West Bengal,East,100g,213,1.11g,48.24g,3.62g,rasgulla
+Sandesh,"Milk, sugar, saffron, cardamom",vegetarian,30,20,sweet,dessert,West Bengal,East,100g,300,9g,48.89g,8.01g,sandesh
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",vegetarian,10,50,sweet,dessert,West Bengal,East,100g,238,9.23g,36.88g,2.24g,adhirasam
+Ariselu,"Rice flour, jaggery, ghee",vegetarian,15,75,sweet,dessert,Andhra Pradesh,South,100g,242,11.39g,33.14g,2.57g,ariselu
+Bandar laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",vegetarian,5,35,sweet,dessert,Andhra Pradesh,South,1 serving,181,8g,22g,3g,bandar_laddu
+Chikki,"Peanuts, jaggery",vegetarian,10,20,sweet,dessert,Maharashtra,West,100g,483,26.82g,53.56g,14.09g,chikki
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",vegetarian,20,60,sweet,dessert,Karnataka,South,100g,409,23.07g,39.1g,12.78g,dharwad_pedha
+Double ka meetha,"Loaf bread, milk",vegetarian,20,30,sweet,dessert,Telangana,South,100g,217,8.81g,28.84g,6.29g,double_ka_meetha
+Gavvalu,"Rice flour, sugar, salt, ghee, semolina",vegetarian,10,30,sweet,dessert,Andhra Pradesh,South,100g,489,20g,71.3g,6g,gavvalu
+Kakinada khaja,"Wheat flour, sugar",vegetarian,10,30,sweet,dessert,Andhra Pradesh,South,1 serving,130,5g,20g,2g,kakinada_khaja
+Kuzhi paniyaram,"Black lentils, rice",vegetarian,10,20,sweet,dessert,Kerala,South,100g,232,5.71g,39.25g,5.73g,kuzhi_paniyaram
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",vegetarian,5,20,sweet,dessert,Karnataka,South,100g,379,24.12g,38.87g,3.54g,mysore_pak
+Poornalu,"Chana dal, jaggery",vegetarian,240,60,sweet,dessert,Andhra Pradesh,South,100g,232,4g,44g,6.42g,poornalu
+Pootharekulu,"Rice flour, powdered sugar, ghee",vegetarian,10,60,sweet,dessert,Andhra Pradesh,South,100g,352,7.65g,68.43g,4.47g,pootharekulu
+Qubani ka meetha,"Apricots, sugar syrup",vegetarian,10,20,sweet,dessert,Telangana,South,100g,324.3,4.9g,67.2g,3g,qubani_ka_meetha
+Sheer korma,"Vermicelli pudding, milk",vegetarian,10,20,sweet,dessert,Telangana,South,100g,208,5.85g,36.65g,4.2g,sheer_korma
+Unni Appam,"Rice flour, banana, jaggery, coconut",vegetarian,10,20,sweet,dessert,Tamil Nadu,South,100g,95,5.19g,11.15g,1.01g,unni_appam
+Kajjikaya,"Rice flour, jaggery, coconut",vegetarian,40,15,sweet,dessert,Andhra Pradesh,South,per serving,280,13.2g,35.8g,4.5g,kajjikaya
+Anarsa,"Rice flour, jaggery, khus-khus seeds",vegetarian,10,50,sweet,dessert,Maharashtra,West,100g,277,5.35g,53.08g,4.31g,anarsa
+Basundi,"Sugar, milk, nuts",vegetarian,10,35,sweet,dessert,Gujarat,West,100g,192,11g,18g,5.3g,basundi
+Doodhpak,"Milk, rice, sugar, dry fruits",vegetarian,10,60,sweet,dessert,Gujarat,West,250ml,157,8.8g,13g,7g,doodhpak
+Modak,"Rice flour, coconut, jaggery ",vegetarian,10,15,sweet,dessert,Maharashtra,West,100g,255,6.8g,46.65g,2.71g,modak
+Shankarpali,"Sugar, ghee, maida flour, semolina",vegetarian,10,35,sweet,dessert,Maharashtra,West,100g,421,19.4g,49.2g,12.3g,shankarpali
+Shrikhand,"Curd, sugar, saffron, cardamom",vegetarian,10,720,sweet,dessert,Maharashtra,West,100g,178,4.03g,28.95g,7.49g,shrikhand
+Sutar feni,"Maida, sugar, ghee",vegetarian,15,55,sweet,dessert,Maharashtra,West,350g,478,30gg,49g,3g,sutar_feni
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",non vegetarian,10,40,spicy,main course,Assam,North East,100g,117,5.28g,5.93g,11.62g,maach_jhol
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",vegetarian,240,45,sweet,dessert,Manipur,North East,1 serving,181,2.97g,36.49g,4.21g,chak_hao_kheer
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,10,20,spicy,main course,Punjab,North,100g,86,3.51g,13.62g,2.29g,aloo_gobi
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",vegetarian,5,20,spicy,main course,Punjab,North,100g,111,4.23g,18.15g,2.38g,aloo_tikki
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",vegetarian,5,40,spicy,main course,Punjab,North,100g,98,2.96g,16.48g,3.29g,aloo_matar
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",vegetarian,10,40,bitter,main course,Punjab,North,100g,121,4.78g,18.33g,2.52g,aloo_methi
+Aloo shimla mirch,"Potato, shimla mirch, garam masala, amchur powder, salt",vegetarian,10,40,spicy,main course,Punjab,North,453.59g,178,8.8g,25.5g,4.7g,aloo_shimla_mirch
+Bhatura,"Chole, rava, yogurt, plain flour, baking soda",vegetarian,20,20,spicy,main course,Punjab,North,100g,287,8.65g,45.04g,6.44g,bhatura
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",vegetarian,20,30,spicy,main course,Punjab,North,100g,112,6.4g,13.51g,2.99g,bhindi_masala
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,30,120,spicy,main course,Telangana,South,100g,348,9.82g,48.07g,15.9g,biryani
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,10,35,spicy,main course,NCT of Delhi,North,100g,202,14.52g,4.32g,13.87g,butter_chicken
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",vegetarian,20,30,spicy,main course,Punjab,North,100g,109,6.31g,10.87g,3.18g,chana_masala
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",vegetarian,10,10,-1,main course,Maharashtra,West,100g,170,1.55g,32.5g,5.84g,chapati
+Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",non vegetarian,10,35,spicy,main course,West Bengal,East,1 serving,363,23g,10g,29g,chicken_razala
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,10,50,spicy,main course,Punjab,North,100g,160,7.69g,7.35g,15.37g,chicken_tikka_masala
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,120,45,spicy,starter,Punjab,North,100g,150,3.02g,7.62g,22.52g,chicken_tikka
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",vegetarian,10,90,spicy,main course,Rajasthan,West,165g,301,13g,36g,12g,daal_baati_churma
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",vegetarian,30,30,spicy,main course,West Bengal,East,90g,220,6g,32g,6g,daal_puri
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",vegetarian,10,30,spicy,main course,Punjab,North,100g,130,5.48g,15.97g,6.11g,dal_tadka
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",vegetarian,20,50,spicy,main course,Jammu & Kashmir,North,100g,131,5.56g,19.74g,3.19g,dum_aloo
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",vegetarian,20,30,spicy,snack,Maharashtra,West,100g,110,2.87g,18.8g,2.34g,poha
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",vegetarian,30,60,spicy,snack,Uttar Pradesh,North,100g,68,2.5g,8.92g,2.46g,kachori
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",vegetarian,20,30,spicy,main course,Punjab,North,100g,260,20g,10g,12g,kadai_paneer
+Kadhi pakoda,"Besan, garam masala powder, gram flour, ginger, curry leaves",vegetarian,10,60,spicy,main course,Haryana,North,100g,138,5.11g,16.82g,6.45g,kadhi_pakoda
+Karela bharta,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",vegetarian,20,50,bitter,main course,Punjab,North,50g,66,5.5g,3.4g,1g,karela_bharta
+Kofta,"Paneer, potato, cream, corn flour, garam masala",vegetarian,20,40,spicy,main course,Uttar Pradesh,North,100g,163,8.24g,19.2g,5.6g,kofta
+Litti chokha,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",vegetarian,45,60,spicy,main course,Bihar,North,100g,294,8.34g,50.6g,1.53g,litti_chokha
+Makki di roti sarson da saag,"Palak, makki atta, mustard green, garam masala, ginger",vegetarian,25,30,spicy,main course,Punjab,North,100g,261,13.26g,33.6g,7.1g,makki_di_roti_sarson_da_saag
+Misi roti,"Whole wheat flour, chickpea flour, green chilies",vegetarian,30,30,spicy,main course,Punjab,North,100g,261,3.84g,48.5g,11.12g,misi_roti
+Naan,"Whole wheat flour, honey, butter, garlic",vegetarian,60,30,-1,main course,Punjab,North,100g,311,11.59g,42.72g,8.49g,naan
+Navrattan korma,"Green beans, potatoes, khus khus, low fat, garam masala powder",vegetarian,25,40,spicy,main course,Uttar Pradesh,North,150g,220,16g,13g,2.7g,navrattan_korma
+Palak paneer,"Cottage cheese, palak, cream, garam masala, butter",vegetarian,20,40,spicy,main course,Punjab,North,100g,169,13.18g,6.07g,7.89g,palak_paneer
+Paneer butter masala,"Paneer, whipping cream, garam masala, cashew nuts, butter",vegetarian,20,40,spicy,main course,Punjab,North,100g,211,16.66g,8.83g,7.68g,paneer_butter_masala

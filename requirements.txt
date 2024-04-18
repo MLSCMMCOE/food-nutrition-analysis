@@ -1,0 +1,9 @@
+fastapi
+transformers
+datasets 
+accelerate
+uvicorn
+python-multipart
+pillow
+torchvision
+pandas
